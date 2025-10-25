@@ -1,0 +1,5 @@
+djitellopy==2.5.0
+opencv-python==4.8.1.78
+pygame==2.5.2
+Pillow==10.0.1
+numpy==1.25.2
