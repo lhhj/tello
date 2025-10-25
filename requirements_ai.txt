@@ -1,0 +1,20 @@
+# AI Tello Controller Requirements
+# Core drone control
+djitellopy==2.5.0
+opencv-python==4.8.1.78
+pygame==2.5.2
+Pillow==10.0.1
+numpy==1.25.2
+
+# AI/ML dependencies for StreamVLM integration
+requests>=2.31.0
+transformers>=4.30.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Optional: For better image processing
+scikit-image>=0.21.0
+
+# Optional: For more advanced NLP parsing
+nltk>=3.8.0
+spacy>=3.6.0
